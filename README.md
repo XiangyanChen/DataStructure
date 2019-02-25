@@ -1,3 +1,3 @@
 # DataStructure
-The code of data structure
+The code of data structure  
 IDE: Code::Blocks
