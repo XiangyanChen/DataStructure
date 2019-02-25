@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1508814742 source:e:\c\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510848620 source:e:\c工程\考研数据结构\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"Graph.h"
+
+1509123406 source:e:\c工程\考研数据结构\graph\circularqueue.c
+	"Graph.h"
+
+1509122949 e:\c工程\考研数据结构\graph\circularqueue.c
+
+1509122999 e:\c工程\考研数据结构\graph\graph.h
+
+1509123406 source:e:\c\graph(adj)\circularqueue.c
+	"Graph.h"
+
+1509122999 e:\c\graph(adj)\graph.h
+
+1510849992 source:e:\c\graph(adj)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"Graph.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1512178457 source:e:\c\graph(arr)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.c"
+
+1510928649 e:\c\graph(arr)\graph.h
+
+1512109057 e:\c\graph(arr)\stack.c
+	<stdio.h>
+	<stdlib.h>
+
+1512109057 source:e:\c\graph(arr)\stack.c
+	<stdio.h>
+	<stdlib.h>
+
+1512106984 e:\c\graph(arr)\queue.c
+
+1512106984 source:e:\c\graph(arr)\queue.c
+

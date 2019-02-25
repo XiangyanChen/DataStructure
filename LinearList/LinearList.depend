@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512025653 source:e:\c\linearlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
