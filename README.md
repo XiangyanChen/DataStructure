@@ -1,5 +1,5 @@
 # 《数据结构与算法》严蔚敏版  
-实现了线性表、链表、队列、栈、树以及图的C语言代码。
+线性表、链表、队列、栈、树以及图的C语言代码。
 ## 线性表  
 (LinearList)  https://blog.csdn.net/tudaodiaozhale/article/details/78560776  
 ## 单链表  
