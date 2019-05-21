@@ -6,7 +6,7 @@
 (LinkList)  https://blog.csdn.net/tudaodiaozhale/article/details/78676717  
 ## 队列  
 (Queue)  https://blog.csdn.net/tudaodiaozhale/article/details/78558452  
-# 栈  
+## 栈  
 (Stack)  https://blog.csdn.net/tudaodiaozhale/article/details/78558465  
 ## 二叉树
 (BinaryTree)  https://blog.csdn.net/tudaodiaozhale/article/details/78674671  
